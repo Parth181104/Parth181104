@@ -16,7 +16,7 @@ With a strong foundation in programming and a passion for working with data, I a
 
 - **Languages**: Python, C++, JavaScript
 - **Data Science & ML**: Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn
-- **Backend**: FastAPI, Flask
+- **Backend**: FastAPI, Flask , PyTorch
 - **Analytics & Visualization**: Plotly, Seaborn, Tableau (basic), Matplotlib , PowerBI , Numpy , Pandas
 - **Databases**: SQL, MongoDB
 - **Tools & Practices**: Git, VSCode, Jupyter, Linux, unit testing, Agile workflows
